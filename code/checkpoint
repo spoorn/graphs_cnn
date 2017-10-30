@@ -1,0 +1,2 @@
+model_checkpoint_path: "128min_model"
+all_model_checkpoint_paths: "128min_model"

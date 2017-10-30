@@ -1,0 +1,9 @@
+quant-ph0412143_snakefig
+quant-ph0605094_homologia_disco
+quant-ph0602096_FIG6
+quant-ph0703044_Anfossi1
+quant-ph0601169_Pant_2
+quant-ph0503236_f32
+quant-ph0701211_hyper2
+quant-ph0412143_classes4
+quant-ph0607203_punctures

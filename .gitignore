@@ -1,0 +1,12 @@
+data/examples/
+data/examples_temp/
+data/128min_images/
+data/filenames.txt
+data/json/
+data/nojson
+data/morenojson
+data/orig.png
+data/28wh_images/
+code/data_csvs/*
+data/*
+*.DS_Store
